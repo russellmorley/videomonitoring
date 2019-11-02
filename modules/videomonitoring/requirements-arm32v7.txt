@@ -1,0 +1,6 @@
+#azure-iothub-device-client
+azure-iot-device~=2.0.0rc12 
+Flask
+numpy
+opencv-contrib-python==3.4.4.19
+imutils==0.5.3
