@@ -2,5 +2,5 @@
 azure-iot-device~=2.0.0rc12
 Flask
 numpy
-opencv-contrib-python==4.1.1.26
+opencv-contrib-python==4.2.0.32
 imutils==0.5.3
